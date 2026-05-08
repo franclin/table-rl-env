@@ -1,0 +1,8 @@
+gymnasium>=0.29.0
+stable-baselines3>=2.0.0
+numpy>=1.24.0
+torch>=2.0.0
+pytest>=7.0.0
+matplotlib>=3.5.0  # for visualization
+tqdm>=4.65.0
+rich>=13.0.0
