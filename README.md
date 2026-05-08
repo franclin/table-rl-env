@@ -1,6 +1,6 @@
 # Table RL Environment
 
-This is an extension of a related project (www.weddingseatingplanner.com), in this case I am using RL whereas in the original version I used Google OR-tools.
+This is an extension of a related project (www.myweddingseatingplanner.com), in this case I am using RL whereas in the original version I used Google OR-tools.
 A custom Gymnasium environment for solving constrained table arrangement problems using Reinforcement Learning.
 
 ## Problem Statement
